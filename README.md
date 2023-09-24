@@ -63,5 +63,4 @@
   <img height=150 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FernaandoJr&theme=dark"/>
 
 </div>
-###
 
