@@ -1,1 +1,72 @@
-![Metrics](https://metrics.lecoq.io/FernaandoJr?template=classic&fortune=1&introduction=1&people=1&languages=1&isocalendar=1&repositories=1&habits=1&lines=1&stars=1&activity=1&base=header%2C%20activity%2C%20community%2C%20repositories%2C%20metadata&base.indepth=false&base.hireable=false&base.skip=false&repositories.batch=100&repositories.forks=false&repositories.affiliations=owner&isocalendar=false&isocalendar.duration=half-year&languages=false&languages.ignored=hack%2C%20css&languages.limit=8&languages.threshold=0%25&languages.other=false&languages.colors=github&languages.sections=most-used&languages.indepth=false&languages.analysis.timeout=15&languages.analysis.timeout.repositories=7.5&languages.categories=markup%2C%20programming&languages.recent.categories=markup%2C%20programming&languages.recent.load=300&languages.recent.days=15&lines=false&lines.sections=base&lines.repositories.limit=4&lines.history.limit=1&stars=false&stars.limit=4&habits=false&habits.from=200&habits.days=14&habits.facts=true&habits.charts=false&habits.charts.type=classic&habits.trim=false&habits.languages.limit=8&habits.languages.threshold=0%25&people=false&people.limit=12&people.identicons=false&people.identicons.hide=false&people.size=28&people.types=followers%2C%20following&people.shuffle=false&repositories=false&repositories.featured=qrcode-generator&repositories.pinned=0&repositories.starred=0&repositories.random=0&repositories.order=featured%2C%20pinned%2C%20starred%2C%20random&activity=false&activity.limit=5&activity.load=300&activity.days=14&activity.visibility=all&activity.timestamps=false&activity.filter=all&introduction=false&introduction.title=true&fortune=false&config.timezone=America%2FSao_Paulo)
+<h1 align="left">👋 Hi, I'm Fernando</h1>
+
+###
+
+<h2 align="left">📌 About me</h2>
+
+###
+
+<p align="left">Analysis and Systems Development student at Fatec Mogi Mirim, with a strong enthusiasm for technology and problem-solving. Since 2020, I've been on an exciting journey into the world of coding and artificial intelligence.</p>
+
+###
+
+<h2 align="left">🐍 Python Enthusiast</h2>
+
+###
+
+<p align="left">I'm currently on a quest to master Python, one of the most versatile and powerful programming languages out there. As a student actively engaged in AI research, Python has become my trusted companion in exploring the realms of artificial intelligence.</p>
+
+###
+
+<h2 align="left">🧠 My Interests</h2>
+
+###
+
+<p align="left">My curiosity about artificial intelligence has driven me to dive deep into this fascinating field. I'm dedicated to expanding my knowledge and expertise in AI, and I'm actively engaged in ongoing research projects to explore its potential applications.</p>
+
+###
+
+<h2 align="left">💻 Tecnoologies & Tools</h2>
+
+###
+
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
+  <img width="12" />
+  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+</div>
+
+###
+
+<h2 align="left">📊 Stats</h2>
+
+###
+
+<div align="center">
+<a href="#">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=fernaandojr&hide=issues&show_icons=true&theme=dark&rank_icon=github&hide_border=true" />
+</a>
+<a href="#">
+  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernaandojr&hide=hack,css&langs_count=5&layout=compact&theme=dark&hide_border=true" />
+</a>
+<a href="#">
+  <p></p>
+  <img height=150 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FernaandoJr&theme=dark"/>
+</a>
+</div>
+###
+
