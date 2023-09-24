@@ -57,16 +57,11 @@
 ###
 
 <div align="center">
-<a href="#">
+
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=fernaandojr&hide=issues&show_icons=true&theme=dark&rank_icon=github&hide_border=true" />
-</a>
-<a href="#">
   <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernaandojr&hide=hack,css&langs_count=5&layout=compact&theme=dark&hide_border=true" />
-</a>
-<a href="#">
-  <p></p>
   <img height=150 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FernaandoJr&theme=dark"/>
-</a>
+
 </div>
 ###
 
