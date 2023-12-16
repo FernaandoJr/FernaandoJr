@@ -10,14 +10,6 @@
 
 ###
 
-<h2 align="left">🐍 Python Enthusiast</h2>
-
-###
-
-<p align="left">I'm currently on a quest to master Python, one of the most versatile and powerful programming languages out there. As a student actively engaged in AI research, Python has become my trusted companion in exploring the realms of artificial intelligence.</p>
-
-###
-
 <h2 align="left">🧠 My Interests</h2>
 
 ###
@@ -45,9 +37,7 @@
   <img width="12" />
   <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
   <img width="12" />
-  <img src="https://skillicons.dev/icons?i=ps" height="40" alt="adobephotoshop logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=discord" height="40" alt="discord logo"  />
+
 </div>
 
 ###
