@@ -1,48 +1,34 @@
-<h1 align="left">👋 Hi, I'm Fernando</h1>
+<h1 align="left">👋 Olá, me chamo Fernado!</h1>
 
 ###
 
-<h2 align="left">📌 About me</h2>
+<h2 align="left">📌 Sobre Mim</h2>
 
 ###
 
-<p align="left">Analysis and Systems Development student at Fatec Mogi Mirim, with a strong enthusiasm for technology and problem-solving. Since 2020, I've been on an exciting journey into the world of coding and artificial intelligence.</p>
+<p align="left">Estudante de Análise e Desenvolvimento de Sistemas pela FATEC em Mogi Mirim, tenho um grande entusiasmo pela tecnologia e programação. Estou em contato com o mundo de programação desde 2020, sou entusiasta de novas tecnologias e ferramentas, fascinado por IA e solução de problemas do mundo real.</p>
 
 ###
 
-<h2 align="left">🧠 My Interests</h2>
+<h2 align="left">🧠 Interesses Pessoais</h2>
 
 ###
 
-<p align="left">My curiosity about artificial intelligence has driven me to dive deep into this fascinating field. I'm dedicated to expanding my knowledge and expertise in AI, and I'm actively engaged in ongoing research projects to explore its potential applications.</p>
+<p align="left">Minha curiosidade sobre a internet e tecnologia como um todo me fez apaixonado por sistemas web, desde então, sou fascinado por linguagens web, como Javascript e Typescript. Além de Frameworks como ReactJS, NextJs, NodeJS entre outros.</p>
 
 ###
 
-<h2 align="left">💻 Tecnoologies & Tools</h2>
+<h2 align="left">💻 Tecnologias & Ferramentas</h2>
 
 ###
 
-<div align="left">
-  <img src="https://skillicons.dev/icons?i=html" height="40" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=css" height="40" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=js" height="40" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=php" height="40" alt="php logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=mysql" height="40" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=c" height="40" alt="c logo"  />
-  <img width="12" />
-  <img src="https://skillicons.dev/icons?i=py" height="40" alt="python logo"  />
-  <img width="12" />
-
-</div>
+<img src="https://skillicons.dev/icons?i=c,html,css,js,typescript,react,nextjs,nodejs,discordjs,mongodb,mysql,tailwind,github,git,vscode,vercel" />
 
 ###
 
-<h2 align="left">📊 Stats</h2>
+###
+
+<h2 align="left">📊 Estatísticas</h2>
 
 ###
 
