@@ -22,7 +22,7 @@
 
 ###
 
-<img src="https://skillicons.dev/icons?i=c,html,css,js,typescript,react,nextjs,nodejs,discordjs,mongodb,mysql,tailwind,github,git,vscode,vercel" />
+<img src="https://skillicons.dev/icons?i=c,html,css,js,typescript,react,nodejs,discordjs,mysql,tailwind,github,git,vscode,vercel" />
 
 ###
 
