@@ -33,10 +33,9 @@
 ###
 
 <div align="center">
-
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api?username=fernaandojr&hide=issues&show_icons=true&theme=dark&rank_icon=github&hide_border=true" />
-  <img height=150 align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernaandojr&hide=hack,css&langs_count=5&layout=compact&theme=dark&hide_border=true" />
-  <img height=150 align="center" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=FernaandoJr&theme=dark"/>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=fernaandojr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernaandojr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2" height="150" alt="languages graph"  />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernaandojr&radius=16&theme=tokyo-night&area=true&order=5&bg_color=151515&title_color=aeafb0&line=aeafb0&point=65d37e&area_color=878787&hide_title=false&custom_title=Contribution's%20Graph&hide_border=false&color=ffffff" height="250" alt="activity-graph graph"  />
 </div>
+
 
