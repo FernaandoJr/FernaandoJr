@@ -1,24 +1,24 @@
-<h1 align="left">👋 Olá, me chamo Fernando!</h1>
+<h1 align="left">👋 Hello, my name is Fernando!</h1>
 
 ###
 
-<h2 align="left">📌 Sobre Mim</h2>
+<h2 align="left">📌 About Me</h2>
 
 ###
 
-<p align="left">Estudante de Análise e Desenvolvimento de Sistemas pela FATEC em Mogi Mirim, tenho um grande entusiasmo pela tecnologia e programação. Estou em contato com o mundo de programação desde 2020, sou entusiasta de novas tecnologias e ferramentas, fascinado por IA e solução de problemas do mundo real.</p>
+<p align="left">I am a System Analysis and Development student at FATEC in Mogi Mirim in Brazil, with a great enthusiasm for technology and programming. I've been in contact with the programming world since 2020, and I am passionate about new technologies and tools, fascinated by AI and solving real-world problems.</p>
 
 ###
 
-<h2 align="left">🧠 Interesses Pessoais</h2>
+<h2 align="left">🧠 Personal Interests</h2>
 
 ###
 
-<p align="left">Minha curiosidade sobre a internet e tecnologia como um todo me fez apaixonado por sistemas web, desde então, sou fascinado por linguagens web, como Javascript e Typescript. Além de Frameworks como ReactJS, NextJs, NodeJS entre outros.</p>
+<p align="left">My curiosity about the internet and technology as a whole made me fall in love with web systems. Since then, I have been fascinated by web languages like Javascript and Typescript, as well as frameworks such as ReactJS, NextJs, NodeJS, and others.</p>
 
 ###
 
-<h2 align="left">💻 Tecnologias & Ferramentas</h2>
+<h2 align="left">💻 Technologies & Tools</h2>
 
 ###
 
@@ -28,7 +28,7 @@
 
 ###
 
-<h2 align="left">📊 Estatísticas</h2>
+<h2 align="left">📊 Statistics</h2>
 
 ###
 
