@@ -14,7 +14,7 @@
 
 ###
 
-<p align="left">My curiosity about the internet and technology as a whole made me fall in love with web systems. Since then, I have been fascinated by web languages like Javascript and Typescript, as well as frameworks such as ReactJS, NextJs, NodeJS, and others.</p>
+<p align="left">My curiosity about the internet and technology as a whole made me fall in love with web systems. Since then, I have been fascinated by web languages like Javascript and Typescript, as well as frameworks such as React, NextJs, Node and others.</p>
 
 ###
 
