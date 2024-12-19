@@ -18,6 +18,19 @@
 
 ###
 
+<h2 align="left">📚 Projects</h2>
+
+#### [AstroVista](https://astrovista.vercel.app/)
+
+AstroVista is an open-source web application that brings the wonders of space to your screen by showcasing images from NASA's Astronomy Picture of the Day (APOD) API. Built with modern technologies like **Next.js**, **Tailwind CSS**, **TypeScript**, and tools such as **shadcn/ui.**
+
+
+###
+
+<p align="left">My curiosity about the internet and technology as a whole made me fall in love with web systems. Since then, I have been fascinated by web languages like Javascript and Typescript, as well as frameworks such as React, NextJs, Node and others.</p>
+
+###
+
 <h2 align="left">💻 Technologies & Tools</h2>
 
 ###
