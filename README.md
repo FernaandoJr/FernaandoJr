@@ -18,6 +18,16 @@
 
 ###
 
+<h2 align="left">💼 Experience</h2>
+
+### Back-end Developer
+September 2024 - Present \
+\
+[<img align="left" height="60px" width="60px" alt="Back-end Developer" src="https://agrocrm.com.br/wp-content/uploads/2020/06/icone-agrocrm-512x512-1.png"/>](https://agrocrm.com.br/)
+**AgroCRM** • Fulltime \
+    - Developed and integrated APIs using [GeneXus.](https://www.genexus.com/pt/) \
+    - Implemented and created APIs and CRUD operations for various data entities within the GeneXus environment.
+
 <h2 align="left">📚 Projects</h2>
 
 #### [AstroVista](https://astrovista.vercel.app/)
