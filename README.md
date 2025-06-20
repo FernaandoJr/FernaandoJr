@@ -20,13 +20,36 @@
 
 <h2 align="left">💼 Experience</h2>
 
-### Back-end Developer
-September 2024 - Present \
-\
-[<img align="left" height="60px" width="60px" alt="Back-end Developer" src="https://agrocrm.com.br/wp-content/uploads/2020/06/icone-agrocrm-512x512-1.png"/>](https://agrocrm.com.br/)
-**AgroCRM** • Fulltime \
-    - Developed and integrated APIs using [GeneXus.](https://www.genexus.com/pt/) \
-    - Implemented and created APIs and CRUD operations for various data entities within the GeneXus environment.
+### 🚀 Back-end Developer @ [AgroCRM](https://agrocrm.com.br/)
+<div>
+    
+![GeneXus](https://img.shields.io/badge/-GeneXus-blue)
+![MySQL](https://img.shields.io/badge/-MySQL-white)
+![Postman](https://img.shields.io/badge/-Postman-orange)
+</div>
+
+**Sep 2024 – May 2025**
+- Developed RESTful APIs using [GeneXus](https://www.genexus.com/pt/).
+- Created and maintained CRUD operations.
+- Worked closely with front-end and support teams.
+- Performed bug fixes and backend optimizations.
+
+### 🎨 Front-end Developer @ [AgroCRM](https://agrocrm.com.br/)
+
+<div>
+    
+![TS](https://img.shields.io/badge/-Typescript-587cc2)
+![React](https://img.shields.io/badge/-React-95d9f7)
+![Vite](https://img.shields.io/badge/-Vite-ac4ff3)
+![Vite](https://img.shields.io/badge/-Next.js-black)
+
+</div>
+
+**May 2025 – Present**
+- Applied MVVM architecture for component organization and state management.
+- Built scalable and modular front-end solutions using React.
+- Developed reusable UI libraries and packages in a monorepo structure.
+- Integrated with REST APIs from GeneXus backend.
 
 <h2 align="left">📚 Projects</h2>
 
@@ -36,11 +59,13 @@ AstroVista is an open-source web application that brings the wonders of space to
 
 ###
 
-<h2 align="left">💻 Technologies & Tools</h2>
+<h2 align="left">💻 Technologies & Tools I've used</h2>
 
 ###
 
-<img src="https://skillicons.dev/icons?i=c,html,css,js,typescript,react,nodejs,discordjs,mysql,tailwind,github,git,vscode,vercel" />
+<p align="center">
+<img src="https://skills.syvixor.com/api/icons?i=c,html,css,js,nodejs,ts,react,vite,nextjs,tailwind,,mongodb,discordjs,mysql,github,git,npm,pnpm,yarn,prettier,eslint,storybook,mui,docker,java,vitest,vscode,intellij,clion,vercel,obs,obsidian,arc,postman,ps,vegaspro,element&radius=55&perline=15" />
+</p>
 
 ###
 
