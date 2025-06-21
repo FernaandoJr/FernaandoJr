@@ -6,7 +6,12 @@
 
 ###
 
-<p align="left">I am a System Analysis and Development student at FATEC in Mogi Mirim in Brazil, with a great enthusiasm for technology and programming. I've been in contact with the programming world since 2020, and I am passionate about new technologies and tools, fascinated by AI and solving real-world problems.</p>
+<p align="left">
+Since I was very young, I've always been passionate about the internet and technology. As the years went by, this passion only grew stronger, and it became clear that I would pursue a career in a tech-related field.
+I took a technical high school course called Software Development, where I had my first real experience with coding and building projects. That was when I realized that what truly excites me is creating things—bringing ideas from my mind into the real world, whether through programming or other creative processes.
+Web technologies were my first gateway: HTML, CSS, and JavaScript helped me understand the fundamentals of logic and algorithms. From there, I decided to fully dive into the web development world, where the possibilities are endless—inside or even beyond the browser—building APIs, services, and even games.
+Today, I dedicate my time and energy to continuously improving my skills in modern technologies, frameworks, and platforms demanded by the industry. I love creating personal projects and collaborating with other developers who share the same passion for technology and innovation.
+</p>
 
 ###
 
