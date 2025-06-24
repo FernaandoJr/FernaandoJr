@@ -25,7 +25,7 @@ Today, I dedicate my time and energy to continuously improving my skills in mode
 
 <h2 align="left">💼 Experience</h2>
 
-### 🚀 Back-end Developer @ [AgroCRM](https://agrocrm.com.br/)
+### 🚀 Back-end Developer [@ AgroCRM](https://agrocrm.com.br/)
 <div>
     
 ![GeneXus](https://img.shields.io/badge/-GeneXus-blue)
@@ -39,7 +39,7 @@ Today, I dedicate my time and energy to continuously improving my skills in mode
 - Worked closely with front-end and support teams.
 - Performed bug fixes and backend optimizations.
 
-### 🎨 Front-end Developer @ [AgroCRM](https://agrocrm.com.br/)
+### 🎨 Front-end Developer [@ AgroCRM](https://agrocrm.com.br/)
 
 <div>
     
