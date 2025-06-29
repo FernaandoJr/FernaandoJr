@@ -7,19 +7,22 @@
 ###
 
 <p align="left">
-Since I was very young, I've always been passionate about the internet and technology. As the years went by, this passion only grew stronger, and it became clear that I would pursue a career in a tech-related field.
-I took a technical high school course called Software Development, where I had my first real experience with coding and building projects. That was when I realized that what truly excites me is creating things—bringing ideas from my mind into the real world, whether through programming or other creative processes.
-Web technologies were my first gateway: HTML, CSS, and JavaScript helped me understand the fundamentals of logic and algorithms. From there, I decided to fully dive into the web development world, where the possibilities are endless—inside or even beyond the browser—building APIs, services, and even games.
-Today, I dedicate my time and energy to continuously improving my skills in modern technologies, frameworks, and platforms demanded by the industry. I love creating personal projects and collaborating with other developers who share the same passion for technology and innovation.
+From a young age, I’ve always been drawn to the internet and technology. Over time, this interest evolved into a clear passion for creating not just through code, but by bringing ideas to life.
+
+I studied Software Development in a technical high school program, where I realized how much I enjoy building real-world solutions. My journey began with web technologies like HTML, CSS, and JavaScript, which helped me grasp the fundamentals of logic and development.
+
+Since then, I’ve focused on web development, exploring everything from APIs to full-stack apps. Today, I dedicate myself to improving my skills in modern tools, frameworks, and real-world projects both personal and collaborative.
+
 </p>
 
 ###
 
 <h2 align="left">🧠 Personal Interests</h2>
 
-###
+<p align="left">
+I've always been curious about how things work on the web, and that curiosity quickly turned into a real passion. I love working with JavaScript and TypeScript, and I’ve been diving deeper into tools like React, Next.js, and Node.js. I enjoy building things from scratch, experimenting with new tech, and learning how to make web experiences faster, smarter, and more fun to use.
+</p>
 
-<p align="left">My curiosity about the internet and technology as a whole made me fall in love with web systems. Since then, I have been fascinated by web languages like Javascript and Typescript, as well as frameworks such as React, NextJs, Node and others.</p>
 
 ###
 
