@@ -20,7 +20,7 @@ Since then, I’ve focused on web development, exploring everything from APIs to
 <h2 align="left">🧠 Personal Interests</h2>
 
 <p align="left">
-I've always been curious about how things work on the web, and that curiosity quickly turned into a real passion. I love working with JavaScript and TypeScript, and I’ve been diving deeper into tools like React, Next.js, and Node.js. I enjoy building things from scratch, experimenting with new tech, and learning how to make web experiences faster, smarter, and more fun to use.
+I've always been curious about how things work on the web, and that curiosity quickly turned into a real passion. I love working with JavaScript and TypeScript, and I’ve been diving deeper into tools like React, Next.js, and Node.js. I enjoy building things from scratch, experimenting with new tech, and learning how to make web experiences faster, smarter, and more fun to use. 
 </p>
 
 
