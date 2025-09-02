@@ -4,20 +4,6 @@
 
 <h2 align="left">💼 Experience</h2>
 
-### 🚀 Back-end Developer [@ AgroCRM](https://agrocrm.com.br/)
-<div>
-    
-![GeneXus](https://img.shields.io/badge/-GeneXus-blue)
-![MySQL](https://img.shields.io/badge/-MySQL-white)
-![Postman](https://img.shields.io/badge/-Postman-orange)
-</div>
-
-**Sep 2024 – May 2025**
-- Developed RESTful APIs using [GeneXus](https://www.genexus.com/pt/).
-- Created and maintained CRUD operations.
-- Worked closely with front-end and support teams.
-- Performed bug fixes and backend optimizations.
-
 ### 🎨 Front-end Developer [@ AgroCRM](https://agrocrm.com.br/)
 
 <div>
@@ -34,6 +20,22 @@
 - Built scalable and modular front-end solutions using React.
 - Developed reusable UI libraries and packages in a monorepo structure.
 - Integrated with REST APIs from GeneXus backend.
+
+### 🚀 Back-end Developer [@ AgroCRM](https://agrocrm.com.br/)
+<div>
+    
+![GeneXus](https://img.shields.io/badge/-GeneXus-blue)
+![MySQL](https://img.shields.io/badge/-MySQL-white)
+![Postman](https://img.shields.io/badge/-Postman-orange)
+</div>
+
+**Sep 2024 – May 2025**
+- Developed RESTful APIs using [GeneXus](https://www.genexus.com/pt/).
+- Created and maintained CRUD operations.
+- Worked closely with front-end and support teams.
+- Performed bug fixes and backend optimizations.
+
+
 
 <h2 align="left">📚 Projects</h2>
 
