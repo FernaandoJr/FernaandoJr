@@ -64,13 +64,13 @@ AstroVista is an open-source web application that brings the wonders of space to
 <!--START_SECTION:waka-->
 
 ```txt
-From: 28 August 2025 - To: 04 September 2025
+From: 29 August 2025 - To: 05 September 2025
 
-TypeScript   27 hrs 17 mins  ██████████████████████▒░░   89.25 %
-JSON         1 hr 47 mins    █▒░░░░░░░░░░░░░░░░░░░░░░░   05.88 %
-Bash         44 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.40 %
-Markdown     17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.96 %
-TSConfig     11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+TypeScript   26 hrs 49 mins  █████████████████████▓░░░   86.34 %
+JSON         2 hrs 9 mins    █▓░░░░░░░░░░░░░░░░░░░░░░░   06.95 %
+Bash         54 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.91 %
+TSConfig     21 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.13 %
+YAML         17 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.91 %
 ```
 
 <!--END_SECTION:waka-->
