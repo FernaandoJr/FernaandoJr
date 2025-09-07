@@ -39,7 +39,7 @@
 
 <h2 align="left">📚 Projects</h2>
 
-#### [AstroVista](https://astrovista.vercel.app/)
+#### [AstroVista](https://astrovista.fernaandojr.dev/)
 
 AstroVista is an open-source web application that brings the wonders of space to your screen by showcasing images from NASA's Astronomy Picture of the Day (APOD) API. Built with modern technologies like **Next.js**, **Tailwind CSS**, **TypeScript**, and tools such as **shadcn/ui.**
 
