@@ -50,7 +50,7 @@ AstroVista is a modern, full-stack web application that brings the wonders of sp
 ###
 
 <p align="center">
-<img src="https://skills.syvixor.com/api/icons?i=c,html,css,js,nodejs,ts,react,vite,nextjs,tailwind,mongodb,discordjs,mysql,github,git,npm,pnpm,yarn,prettier,eslint,mui,docker,java,vitest,vscode,intellij,clion,vercel,postman&radius=55&perline=15" />
+<img src="https://skills.syvixor.com/api/icons?i=c,html,css,js,nodejs,ts,react,reactnative,vite,nextjs,tanstack,tailwind,mongodb,discordjs,mysql,github,git,npm,pnpm,yarn,prettier,eslint,mui,docker,java,intellij,vscode,cursor,vercel,postman&radius=55&perline=15" />
 </p>
 
 ###
