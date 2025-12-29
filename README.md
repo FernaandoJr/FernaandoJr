@@ -64,13 +64,13 @@ AstroVista is a modern, full-stack web application that brings the wonders of sp
 <!--START_SECTION:waka-->
 
 ```txt
-From: 20 December 2025 - To: 27 December 2025
+From: 21 December 2025 - To: 28 December 2025
 
-TypeScript   19 hrs 43 mins  ███████████████████████▒░   93.14 %
-JSON         49 mins         █░░░░░░░░░░░░░░░░░░░░░░░░   03.86 %
-Other        16 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.29 %
-Bash         7 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.59 %
-Markdown     5 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.40 %
+TypeScript   13 hrs 34 mins  ███████████████████████░░   91.71 %
+JSON         47 mins         █▒░░░░░░░░░░░░░░░░░░░░░░░   05.34 %
+Other        10 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.20 %
+Bash         7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+CSS          4 mins          ░░░░░░░░░░░░░░░░░░░░░░░░░   00.55 %
 ```
 
 <!--END_SECTION:waka-->
