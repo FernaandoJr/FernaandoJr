@@ -4,7 +4,7 @@
 
 <h2 align="left">💼 Experience</h2>
 
-### 🎨 Front-end Developer [@ Dolphin Sistemas](https://Dolphin Sistemas.com.br/)
+### 🎨 Front-end Developer [@ Dolphin Sistemas](https://agrocrm.com.br/)
 
 <div>
     
@@ -21,7 +21,7 @@
 - Developed reusable UI libraries and packages in a monorepo structure.
 - Integrated with REST APIs from GeneXus backend.
 
-### 🚀 Back-end Developer [@ Dolphin Sistemas](https://Dolphin Sistemas.com.br/)
+### 🚀 Back-end Developer [@Dolphin Sistemas](https://agrocrm.com.br/)
 <div>
     
 ![GeneXus](https://img.shields.io/badge/-GeneXus-blue)
