@@ -20,17 +20,9 @@
 
 Open source app that explores NASA's space images and videos, archiving daily APOD images dating back to 1995.
 
-`Next.js` · `Hono` · `MongoDB` · `TypeScript`
-
-[Live](https://astrovista.fernaandojr.dev) · [GitHub](https://github.com/FernaandoJr/AstroVista)
-
 ### [mosaiq](https://mosaiq.fernaandojr.dev)
 
 Customizable QR code generator that runs 100% in the browser — colors, modules, eyes, logo, PIX, and SVG / PNG / PDF download. No sign-up, no server.
-
-`Next.js` · `TypeScript` · `Tailwind` · `Vitest`
-
-[Live](https://mosaiq.fernaandojr.dev) · [GitHub](https://github.com/FernaandoJr/mosaiq)
 
 [See all projects →](https://fernaandojr.dev/projects)
 
