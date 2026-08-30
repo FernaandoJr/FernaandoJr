@@ -1,58 +1,31 @@
-<h1 align="left">👋 Hello, my name is Fernando!</h1>
+**Full Stack Developer** · Design Engineer · São Paulo, Brazil
 
-###
+## About
 
-<h2 align="left">💼 Experience</h2>
+- Full Stack Developer with 2+ years of experience, detail-obsessed and passionate about design that feels as good as it looks.
+- Fascinated by the full spectrum of creation — from UI/UX and web design to component architecture and how people actually use an interface.
+- I keep coming up with project ideas and make a point of shipping them. Exploring components, crafting interfaces, turning rough concepts into polished products.
 
-### 🎨 Front-end Developer [@ Dolphin Sistemas](https://agrocrm.com.br/)
+## Projects
 
-<div>
-    
-![TS](https://img.shields.io/badge/-Typescript-587cc2)
-![React](https://img.shields.io/badge/-React-95d9f7)
-![Vite](https://img.shields.io/badge/-Vite-ac4ff3)
-![Vite](https://img.shields.io/badge/-Next.js-black)
+### [AstroVista](https://astrovista.fernaandojr.dev)
 
-</div>
+Open source app that explores NASA's space images and videos, archiving daily APOD images dating back to 1995.
 
-**May 2025 – Present**
-- Applied MVVM architecture for component organization and state management.
-- Built scalable and modular front-end solutions using React.
-- Developed reusable UI libraries and packages in a monorepo structure.
-- Integrated with REST APIs from GeneXus backend.
+### [mosaiq](https://mosaiq.fernaandojr.dev)
 
-### 🚀 Back-end Developer [@Dolphin Sistemas](https://agrocrm.com.br/)
-<div>
-    
-![GeneXus](https://img.shields.io/badge/-GeneXus-blue)
-![MySQL](https://img.shields.io/badge/-MySQL-white)
-![Postman](https://img.shields.io/badge/-Postman-orange)
-</div>
+Customizable QR code generator that runs 100% in the browser — colors, modules, eyes, logo, PIX, and SVG / PNG / PDF download. No sign-up, no server.
 
-**Sep 2024 – May 2025**
-- Developed RESTful APIs using [GeneXus](https://www.genexus.com/pt/).
-- Created and maintained CRUD operations.
-- Worked closely with front-end and support teams.
-- Performed bug fixes and backend optimizations.
+[See all projects →](https://fernaandojr.dev/projects)
 
-  
-###
+## Stack
 
-<h2 align="left">💻 Technologies & Tools I've used</h2>
-
-###
-
-<p align="center">
-<img src="https://skills.syvixor.com/api/icons?i=c,html,css,js,nodejs,ts,react,reactnative,vite,nextjs,tanstack,tailwind,mongodb,discordjs,mysql,github,git,npm,pnpm,yarn,prettier,eslint,mui,docker,java,intellij,vscode,cursor,vercel,postman&radius=55&perline=15" />
+<p>
+  <img src="https://skills.syvixor.com/api/icons?i=js,ts,java,nodejs,bun,react,expo,nextjs,vite,vitest,hono,discordjs,tanstack,redux,tailwind,shadcnui,mui,mongodb,mysql,postgresql,docker,vercel,git,github,postman,cursor,photoshop,claudeai,openai&radius=50&perline=13" alt="Tech stack" />
 </p>
 
-###
+---
 
-
-
-<div align="center">
- 
-
-![](https://komarev.com/ghpvc/?username=fernaandojr&color=grey&style=for-the-badge&abbreviated=true)
-
-</div>
+> Any fool can write code that a computer can understand. Good programmers write code that humans can understand.
+>
+> — Martin Fowler
