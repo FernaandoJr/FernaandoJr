@@ -35,14 +35,7 @@
 - Worked closely with front-end and support teams.
 - Performed bug fixes and backend optimizations.
 
-
-
-<h2 align="left">📚 Projects</h2>
-
-#### [AstroVista](https://astrovista.fernaandojr.dev/)
-
-AstroVista is a modern, full-stack web application that brings the wonders of space directly to your screen. Built with cutting-edge technologies, it leverages NASA's Astronomy Picture of the Day (APOD) API to deliver a complete archive of astronomical imagery and scientific content dating back to 1995.
-
+  
 ###
 
 <h2 align="left">💻 Technologies & Tools I've used</h2>
@@ -55,30 +48,10 @@ AstroVista is a modern, full-stack web application that brings the wonders of sp
 
 ###
 
-###
 
-<h2 align="left">📊 Statistics</h2>
-
----
-
-<!--START_SECTION:waka-->
-
-```txt
-From: 22 August 2026 - To: 29 August 2026
-
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
----
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fernaandojr&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=fernaandojr&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=false&order=2&hide=CSS,hack,html" height="150" alt="languages graph"  />
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=fernaandojr&radius=16&theme=tokyo-night&area=true&order=5&bg_color=151515&title_color=aeafb0&line=aeafb0&point=65d37e&area_color=878787&hide_title=false&custom_title=Contribution's%20Graph&hide_border=false&color=ffffff" height="250" alt="activity-graph graph"  />
-
-
+ 
 
 ![](https://komarev.com/ghpvc/?username=fernaandojr&color=grey&style=for-the-badge&abbreviated=true)
 
